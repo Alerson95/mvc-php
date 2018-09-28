@@ -1,0 +1,9 @@
+{   
+    "name": "mvc",
+    "description": "estrutura mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
